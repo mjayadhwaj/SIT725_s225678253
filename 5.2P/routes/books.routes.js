@@ -1,4 +1,4 @@
-// routes/books.routes.js
+// routes file for handling book endpoints
 const express = require("express");
 const router = express.Router();
 const controller = require("../controllers/books.controller");
